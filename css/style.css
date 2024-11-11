@@ -490,6 +490,7 @@ footer {
 /* final-footer */
 
 .final-footer {
+  width: 100%;
   background-color: #064306;
   color: white;
   font-size: 10px;
